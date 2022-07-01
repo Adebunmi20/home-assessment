@@ -1,0 +1,16 @@
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ClassAssessment.csproj.AssemblyReference.cache
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ClassAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ClassAssessment.AssemblyInfoInputs.cache
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ClassAssessment.AssemblyInfo.cs
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ClassAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Adebunmi\desktop\ClassAssessment\bin\Debug\net5.0\ClassAssessment.exe
+C:\Users\Adebunmi\desktop\ClassAssessment\bin\Debug\net5.0\ClassAssessment.deps.json
+C:\Users\Adebunmi\desktop\ClassAssessment\bin\Debug\net5.0\ClassAssessment.runtimeconfig.json
+C:\Users\Adebunmi\desktop\ClassAssessment\bin\Debug\net5.0\ClassAssessment.runtimeconfig.dev.json
+C:\Users\Adebunmi\desktop\ClassAssessment\bin\Debug\net5.0\ClassAssessment.dll
+C:\Users\Adebunmi\desktop\ClassAssessment\bin\Debug\net5.0\ref\ClassAssessment.dll
+C:\Users\Adebunmi\desktop\ClassAssessment\bin\Debug\net5.0\ClassAssessment.pdb
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ClassAssessment.dll
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ref\ClassAssessment.dll
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ClassAssessment.pdb
+C:\Users\Adebunmi\desktop\ClassAssessment\obj\Debug\net5.0\ClassAssessment.genruntimeconfig.cache
